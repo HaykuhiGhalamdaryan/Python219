@@ -45,4 +45,3 @@ def generator():
     
 for i in generator():
     print(i)
-    
